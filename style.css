@@ -14,6 +14,22 @@
     text-align: center;
     font-size: small;
 }
+.modifier{
+    font-size: 60px;
+   margin-bottom: 20px;
+}
+.ble{
+    color: #3882eb;
+}
+.rouge{
+    color: #ea4335;
+}
+.jaune{
+    color: #fabc03;
+}
+.verte{
+    color: #34a853;
+}
 .bloc{
     margin-top: 10px ;
     margin-bottom: 0px;
@@ -83,6 +99,9 @@ footer{
     .droite{
         font-size: x-small;
         text-align: left;
+    }
+    .modifier{
+        font-size: 40px;
     }
 }
 
